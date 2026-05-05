@@ -3,11 +3,9 @@ Hey! I’m Ahnaf Reaz, a senior CS student and an aspiring software developer. M
 
 # Project and Work Experience:
 ### Project 1
-dsfsdafdsf
-asfsaffsaf
+A UX-focused project centered on understanding user needs and translating them into functional interface designs. I conducted user research through interviews and task analysis, then designed iterative prototypes in Figma ranging from low to high fidelity. The project emphasized usability testing and feedback-driven iteration to improve navigation and overall user experience, while also strengthening my ability to communicate design decisions to both technical and non-technical audiences.
 ### Project 2
-asdasda<br>
-asfsfaasffsa
+A Python-based chatbot interface built using Gradio, focused on real-time interaction and UI experimentation. I extended and modified the underlying interface code to improve usability and responsiveness, while applying core UI design principles to make the experience more consistent and accessible. This project helped me bridge AI functionality with user-centered frontend design.
 
 # 💻 Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
